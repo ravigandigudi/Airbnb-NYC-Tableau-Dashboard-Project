@@ -2,6 +2,8 @@
 
 This project explores trends in Airbnb listings across New York City using an interactive Tableau dashboard.
 
+![Dashboard Preview](dashboard_preview.jpg)
+
 🔗 [View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/ravishanker.gandigudi/viz/Book2_17434873309570/Dashboard1?publish=yes)
 
 ## Features
